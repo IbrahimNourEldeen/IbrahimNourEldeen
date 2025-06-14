@@ -1,53 +1,59 @@
-<h1 align="center">Hi , I'm Ibrahim Nour Eldeen 👋</h1>
-<h3 align="center" ><a href="https://www.linkedin.com/in/emadserag"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&pause=1000&color=65F780&width=435&lines=Software+Engineer;Frontend+Developer" alt="Typing SVG" /></a></h3>
+<h1 align="center">Hi 👋, I'm Ibrahim Nour Eldeen</h1>
+<h3 align="center">A passionate Front-End React Developer from Egypt</h3>
 
-![Profile views](https://komarev.com/ghpvc/?username=IbrahimNourEldeen&color=blue)
+- 🎓 I'm a 3rd-year Computer Science student at **Benha University**  
+- 💻 I specialize in building modern, responsive, and secure web applications using **React.js**  
+- 🧠 Currently mastering **Redux Toolkit**, **authentication flows**, and backend integration  
+- 🌟 Built full projects as part of **Google Developer Student Club (GDSC)** and **Rowad Masr initiative**  
+- 👨‍💻 See my projects at [GitHub](https://github.com/IbrahimNourEldeen)  
+- 📫 Reach me at **ibrahimnoureldeen11@gmail.com**  
+- 📱 Phone: 01011843602  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahim-nour-eldeen-67232a2b7/)
 
+---
 
-- 🤷‍♂️ Freelancer Frontend Developer
-- 👨‍💻 I’m currently learning **Full Stack Web Development**
-- 📩 How to reach me: **ibrahimnoureldeen11@gmail.com**
-- 📖 Fun fact: **I always love learning**
-### My Skils :
-Node.js, Express, MongoDB, TypeScript, React.js, JS, TailwindCSS, Bootstrap, CSS3, HTML5 
+## 🛠️ Tech Stack
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/ibrahim-nour-eldeen)
+- 💻 Frontend: React.js, Redux Toolkit, JavaScript, Bootstrap, HTML5, CSS3
+- 🗄️ Backend: Node.js, Express.js, MongoDB
+- 🛠️ Tools: Git, GitHub, Figma, Postman, IntelliJ IDEA, Eclipse
 
+---
 
+## 🧠 Projects Highlights
 
+- 🗂️ **Task Management System (MERN Stack):** Create tasks, assign to teams, track progress.
+- 🧾 **Bookstore Website:** Role-based authentication for users, publishers, and admins.
+- 🧪 **IVF Lab Software Demo:** Learned semen analysis and embryo handling, integrated documentation.
+- 🧼 **Environmental Chemistry Platform:** Chromatography & heavy metal detection tools.
 
+---
 
+## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbrahimNourEldeen&show_icons=true&theme=radical" alt="Ibrahim's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimNourEldeen&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
+---
 
-<!--
-**emadserag/emadserag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Currently Learning
 
-Here are some ideas to get you started:
+- Advanced React Patterns (Hooks, Context API, HOCs)
+- CI/CD with GitHub Actions
+- TypeScript
+- API Security and Authentication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🤝 Let's Connect
 
-<!--
-**emadserag/emadserag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💬 Ask me about **React, Redux, Front-end Development**
+- 📨 Or just say hi on [LinkedIn](https://www.linkedin.com/in/ibrahim-nour-eldeen-67232a2b7/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ Don’t forget to star interesting repos and follow me for updates!
+
