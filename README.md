@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Nour Eldeen</h1>
-<h3 align="center">A passionate Front-End React Developer from Egypt</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=02F7AD&width=435&lines=Software+Engineer+specialized+in+Web+Development)](https://git.io/typing-svg)
 
-- 🎓 I'm a 3rd-year Computer Science student at **Benha University**  
+- 🎓 Bachelor of Science in Computer Science **Benha University**  
 - 💻 I specialize in building modern, responsive, and secure web applications using **React.js**  
 - 🧠 Currently mastering **Redux Toolkit**, **authentication flows**, and backend integration  
 - 🌟 Built full projects as part of **Google Developer Student Club (GDSC)** and **Rowad Masr initiative**  
-- 👨‍💻 See my projects at [GitHub](https://github.com/IbrahimNourEldeen)  
 - 📫 Reach me at **ibrahimnoureldeen11@gmail.com**  
 - 📱 Phone: 01011843602  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ibrahim-nour-eldeen-67232a2b7/)
@@ -17,15 +16,6 @@
 - 💻 Frontend: React.js, Redux Toolkit, JavaScript, Bootstrap, HTML5, CSS3
 - 🗄️ Backend: Node.js, Express.js, MongoDB
 - 🛠️ Tools: Git, GitHub, Figma, Postman, IntelliJ IDEA, Eclipse
-
----
-
-## 🧠 Projects Highlights
-
-- 🗂️ **Task Management System (MERN Stack):** Create tasks, assign to teams, track progress.
-- 🧾 **Bookstore Website:** Role-based authentication for users, publishers, and admins.
-- 🧪 **IVF Lab Software Demo:** Learned semen analysis and embryo handling, integrated documentation.
-- 🧼 **Environmental Chemistry Platform:** Chromatography & heavy metal detection tools.
 
 ---
 
