@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Nour Eldeen</h1>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=02F7AD&width=435&lines=Software+Engineer+specialized+in+Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=02F7AD&width=600&lines=Software+Engineer+specialized+in+Web+Development" alt="Typing SVG" />
   </a>
 </div>
 
