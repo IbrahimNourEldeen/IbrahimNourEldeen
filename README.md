@@ -52,5 +52,3 @@ this is my readme.md file <h1 align="center">Hi 👋, I'm Ibrahim Nour Eldeen</h
 ---
 
 ⭐️ Don’t forget to star interesting repos and follow me for updates!
-
- ---------------------------------------------------------------------------------------------------- i want the smartest readme.md better than this
