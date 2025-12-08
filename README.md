@@ -72,7 +72,6 @@
 <div align="center">
   
   **📧 Email:** [ibrahimnoureldeen11@gmail.com](mailto:ibrahimnoureldeen11@gmail.com)  
-  **📱 Phone:** +20 101 184 3602
 
 </div>
 
