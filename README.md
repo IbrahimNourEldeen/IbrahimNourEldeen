@@ -1,23 +1,23 @@
-\<div align="center"\>
+<div align="center"\>
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Ibrahim%20Nour%20Eldeen\&fontSize=80\&animation=fadeIn\&fontAlignY=35](https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D200%26section%3Dheader%26text%3DIbrahim%2520Nour%2520Eldeen%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35)" width="100%" /\>
+ <img src="[https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=Ibrahim%20Nour%20Eldeen\&fontSize=80\&animation=fadeIn\&fontAlignY=35](https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3Dgradient%26height%3D200%26section%3Dheader%26text%3DIbrahim%2520Nour%2520Eldeen%26fontSize%3D80%26animation%3DfadeIn%26fontAlignY%3D35)" width="100%" /\>
 
 ### 🚀 Software Engineer & Full-Stack Architect
 
 **Architecting Scalable Web Ecosystems | React.js Specialist | Open Source Enthusiast**
 
-\<p align="center"\>
-\<a href="[https://www.linkedin.com/in/ibrahim-nour-eldeen-67232a2b7/](https://www.linkedin.com/in/ibrahim-nour-eldeen-67232a2b7/)"\>
-\<img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /\>
-\</a\>
-\<a href="mailto:ibrahimnoureldeen11@gmail.com"\>
-\<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" /\>
-\</a\>
-\</p\>
+<p align="center"\>
+<a href="[https://www.linkedin.com/in/ibrahim-nour-eldeen-67232a2b7/](https://www.linkedin.com/in/ibrahim-nour-eldeen-67232a2b7/)"\>
+<img src="[https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /\>
+</a\>
+<a href="mailto:ibrahimnoureldeen11@gmail.com"\>
+<img src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" /\>
+</a\>
+</p\>
 
 -----
 
-\</div\>
+</div\>
 
 ## 📖 Professional Overview
 
@@ -66,10 +66,10 @@ Currently, I am specializing in **Next.js 15 architectures** and transitioning t
 
 ## 📊 Performance Metrics
 
-\<div align="center"\>
-\<img src="[https://github-readme-stats.vercel.app/api?username=IbrahimNourEldeen\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&bg\_color=0d1117](https://github-readme-stats.vercel.app/api?username=IbrahimNourEldeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)" height="180" /\>
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimNourEldeen\&layout=compact\&theme=tokyonight\&hide\_border=true\&bg\_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimNourEldeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)" height="180" /\>
-\</div\>
+<div align="center"\>
+<img src="[https://github-readme-stats.vercel.app/api?username=IbrahimNourEldeen\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&bg\_color=0d1117](https://github-readme-stats.vercel.app/api?username=IbrahimNourEldeen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)" height="180" /\>
+<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimNourEldeen\&layout=compact\&theme=tokyonight\&hide\_border=true\&bg\_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimNourEldeen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)" height="180" /\>
+</div\>
 
 -----
 
